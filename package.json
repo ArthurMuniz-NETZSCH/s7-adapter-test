@@ -1,0 +1,20 @@
+{
+  "name": "s7-test",
+  "version": "1.0.0",
+  "description": "testing the ability to merge connectivity protocols via a translator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "npm start"
+  },
+  "keywords": [
+    "s7_protocol",
+    "profibus",
+    "profibus_to_s7"
+  ],
+  "author": "Kratos, Netzsch",
+  "license": "ISC",
+  "dependencies": {
+    "nodes7": "^0.3.13"
+  }
+}
